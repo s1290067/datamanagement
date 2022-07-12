@@ -18,6 +18,7 @@ public class coin{
 		m++;
 	    }
 	}
+	
 	System.out.println("Heads: "+j+", Tails: "+m);
     }
 }
